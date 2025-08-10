@@ -17,7 +17,7 @@ I'm a bug bounty hunter and working as a Security Engineer at Manulife IT Delive
 
 # CVE
 
-CVE-2020-29603: Disclosure of private project name 
-CVE-2020-29605: Disclosure of private issue summary 
-CVE-2020-29604: Full disclosure of private issue contents, including bugnotes and attachments 
+CVE-2020-29603: Disclosure of private project name  <br>
+CVE-2020-29605: Disclosure of private issue summary <br>
+CVE-2020-29604: Full disclosure of private issue contents, including bugnotes and attachments <br>
 CVE-2023-22476 -  Private issue summary disclosure (https://github.com/mantisbt/mantisbt/security/advisories/GHSA-hf4x-6h87-hm79)
