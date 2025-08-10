@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello! Welcome to my Github Profile. I'm Jerick Macasieb (d3vpoo1)
 I'm a bug bounty hunter and working as a Security Engineer at Manulife IT Delivery Center.<br><br>
+EJPT | AZ-900
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
