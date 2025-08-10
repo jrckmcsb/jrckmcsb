@@ -12,9 +12,6 @@ I'm a bug bounty hunter and working as a Security Engineer at Manulife IT Delive
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jrckmcsb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=jrckmcsb&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # CVE
 CVE-2020-29603: Disclosure of private project name  <br>
 CVE-2020-29605: Disclosure of private issue summary <br>
