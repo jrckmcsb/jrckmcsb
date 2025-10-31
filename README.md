@@ -27,3 +27,5 @@ CVE-2023-22476 -  Private issue summary disclosure (https://github.com/mantisbt/
 - Hackerone - https://hackerone.com/security <br>
 - Teamsnap
   
+# Interesting Finding (Account Takeover on Edmodo)
+![accounttakeover](https://github.com/user-attachments/assets/7f61a99e-30da-440c-a1d2-46cd19ed517d)
