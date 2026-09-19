@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello! Welcome to my Github Profile. I'm Jerick Macasieb (d3vpoo1)
-I'm a bug bounty hunter and working as a Security Engineer at Manulife IT Delivery Center.<br><br>
+I'm a bug bounty hunter and working as a VAPT at Continent8.<br><br>
 eJPT | eWPT | AZ-900
 
 # 💻 Tech Stack:
